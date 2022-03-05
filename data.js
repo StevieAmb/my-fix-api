@@ -109,28 +109,28 @@ const homeRepairs =  [
   areaOfHome: 'Bathroom',
   project: 'Broken Toilet Handle',
   toolsNeeded: ['toilet tank lever', 'pliers'],
-  video: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/y_gysAOzMaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
+  videos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/y_gysAOzMaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
  },
  {
   id: 17,
   areaOfHome: 'Bathroom',
   property: 'Fix Bathroom Towel Bar',
   toolsNeeded: ['flathead screwdriver', 'piece of paper', 'phillips head screwdriver', 'drill bit'],
-  video: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/UYYDjvPTDfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
+  videos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/UYYDjvPTDfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
  },
  {
   id: 18,
   areaOfHome: 'Bathroom',
   project: 'Loose Toilet Seat',
   toolsNeeded: ['slotted screwdriver', 'adjustable wrench', 'measuring tape', 'replacement toilet seat', 'bolt', 'washers', 'clever nut'],
-  video: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/y4ql6AANARU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
+  videos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/y4ql6AANARU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
  },
  {
   id: 19,
   areaOfHome: 'Bedroom',
   project: 'Fix Broken Drawers',
   toolsNeeded: ['drill', 'speed square', 'pencil', 'screws', 'drill bit', 'wood glue', 'rag'],
-  video: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/98gPMdsInZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
+  videos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/98gPMdsInZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
  },
  {
   id: 20,
