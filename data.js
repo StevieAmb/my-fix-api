@@ -8,6 +8,7 @@ const homeRepairs =  [
 },
 {
   id: 2,
+  areaOfHome: 'Kitchen',
   project: 'Fix Garbage Disposal',
   toolsNeeded: ['allen wrench', 'bowl', 'lock nut', 'screwdriver', 'gloves', 'needlenose pliers'],
   videos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/cdG520BhkNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
@@ -17,7 +18,6 @@ const homeRepairs =  [
   areaOfHome: 'Kitchen',
   project: 'Crooked/Uneven/Loose Cabinet Doors',
   toolsNeeded: ['screwdriver'],
-  areaOfHome: 'Kitchen',
   videos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/MMSF7HVFbEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
 },
 {
