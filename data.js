@@ -1,4 +1,4 @@
-project =  [
+const homeRepairs =  [
 {  
   id: 1,
   areaOfHome: 'Kitchen',
@@ -168,3 +168,5 @@ project =  [
   videos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDEscYyxZ0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
  }
 ]
+
+module.exports = { homeRepairs }
