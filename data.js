@@ -4,42 +4,41 @@ const homeRepairs =  [
   areaOfHome: 'Kitchen',
   project: 'Leaky Faucet',
   toolsNeeded: ['pliers', 'hex key', 'phillips screwdriver', 'allen wrench', 'faucet cartridge'],
-  videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/F4LeAVpTdds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  videos: "https://www.youtube.com/embed/F4LeAVpTdds" 
 },
 {
   id: 2,
   areaOfHome: 'Kitchen',
   project: 'Fix Garbage Disposal',
   toolsNeeded: ['allen wrench', 'bowl', 'lock nut', 'screwdriver', 'gloves', 'needlenose pliers'],
-  videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/cdG520BhkNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  videos: "https://www.youtube.com/embed/cdG520BhkNQ"
 },
 {
   id: 3,
   areaOfHome: 'Kitchen',
   project: 'Crooked Or Uneven Loose Cabinet Doors',
   toolsNeeded: ['screwdriver'],
-  videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/MMSF7HVFbEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  videos: "https://www.youtube.com/embed/MMSF7HVFbEI" 
 },
 {
   id: 4,
   areaOfHome: 'Bathroom',
   project: 'Fix Loose Sink Drain Stopper', 
   toolsNeeded: ['towels', 'sink drain rod kit'],
-  videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/lg_SyIE8uK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  videos: "https://www.youtube.com/embed/lg_SyIE8uK0" 
  },
 {
   id: 5,
   areaOfHome: 'Bathroom',
   project: 'Fix a Slow Draining Tub',
   toolsNeeded: ['tub-drain remover', 'small screwdriver', 'screwdriver', 'towel', 'plastic bag'],
-  videos:'<iframe width="560" height="315" src="https://www.youtube.com/embed/_LFP7KdGB_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
- },
+  videos:"https://www.youtube.com/embed/_LFP7KdGB_U"
  {
   id: 6,
   areaOfHome: 'Bathroom',
   project: 'Rocking Or Shaking Toilet',
   toolsNeeded: ['flange repair kit', 'toilet floor bolt', 'flange screw bolts', 'drill', 'screwdriver', 'foam/wax seal', 'washers', 'nuts', 'crescent wrench'],
-  videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/3HTnSGVjV6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  videos: "https://www.youtube.com/embed/3HTnSGVjV6c"
  },
  {
   id: 7,
@@ -155,7 +154,7 @@ const homeRepairs =  [
  },
  {
   id: 23,
-  areaOfHome: 'Miscellaneous',
+  areaOfHome: 'Miscellaneous', 
   project: 'Wobbly Chair Legs',
   toolsNeeded: ['drill', 'tape', 'marker', 'chisel', 'sandpaper', 'wood glue', 'artist paintbrush', 'rubber mallet'],
   videos: "https://www.youtube.com/embed/dKqIVWTpIiA" 
