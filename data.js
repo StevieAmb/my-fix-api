@@ -16,7 +16,7 @@ const homeRepairs =  [
 {
   id: 3,
   areaOfHome: 'Kitchen',
-  project: 'Crooked/Uneven/Loose Cabinet Doors',
+  project: 'Crooked Or Uneven Loose Cabinet Doors',
   toolsNeeded: ['screwdriver'],
   videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/MMSF7HVFbEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 },
@@ -37,7 +37,7 @@ const homeRepairs =  [
  {
   id: 6,
   areaOfHome: 'Bathroom',
-  project: 'Rocking/Shaking Toilet',
+  project: 'Rocking Or Shaking Toilet',
   toolsNeeded: ['flange repair kit', 'toilet floor bolt', 'flange screw bolts', 'drill', 'screwdriver', 'foam/wax seal', 'washers', 'nuts', 'crescent wrench'],
   videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/3HTnSGVjV6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
  },
@@ -65,7 +65,7 @@ const homeRepairs =  [
  {
   id: 10,
   areaOfHome: 'Miscellaneous',
-  project: 'Fix/Replace a Doorknob',
+  project: 'Fix Or Replace a Doorknob',
   toolsNeeded: ['screwdriver', 'drill', 'door bolt/latch', 'doorknob', 'screws', 'flathead screwdriver', 'latch collar'],
   videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/Dt2waefcQOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
  },
@@ -86,7 +86,7 @@ const homeRepairs =  [
  {
   id: 13,
   areaOfHome: 'Kitchen',
-  project: 'Fix Kitchen Sink Basket/Strainer',
+  project: 'Fix Kitchen Sink Strainer',
   toolsNeeded: ['plumber/s putty', 'channellock pliers', 'bucket', 'hacksaw', 'sink stopper', 'flat screwdriver', 'kitchen strainer', 'brass nut', 'paper ring', 'rubber gasket', 'top hat gasket'],
   videos: '<iframe width="560" height="315" src="https://www.youtube.com/embed/iQaDgfc-MYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
  },
