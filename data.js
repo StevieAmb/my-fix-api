@@ -114,7 +114,7 @@ const homeRepairs =  [
 {
   id: 17,
   areaOfHome: 'Bathroom',
-  property: 'Fix Bathroom Towel Bar',
+  project: 'Fix Bathroom Towel Bar',
   toolsNeeded: ['flathead screwdriver', 'piece of paper', 'phillips head screwdriver', 'drill bit'],
   videos: "https://www.youtube.com/embed/UYYDjvPTDfs" 
 },
