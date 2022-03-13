@@ -64,21 +64,21 @@ const homeRepairs =  [
 },
 {
   id: 10,
-  areaOfHome: 'Miscellaneous',
+  areaOfHome: 'Misc',
   project: 'Fix Or Replace a Doorknob',
   toolsNeeded: ['screwdriver', 'drill', 'door bolt/latch', 'doorknob', 'screws', 'flathead screwdriver', 'latch collar'],
   videos: "https://www.youtube.com/embed/Dt2waefcQOc" 
 },
 {
   id: 11,
-  areaOfHome: 'Miscellaneous',
+  areaOfHome: 'Misc',
   project: 'Scratches on HardWood Floors',
   toolsNeeded: ['stain pen', 'can of stain', 'rag', 'melted wax', 'crayon', 'heat gun', 'blow dryer', 'stainable wood filler', 'painter/s tape', 'wipe-on poly', 'painter/s tool', 'sanding sponge', 'sandpaper'],
   videos: "https://www.youtube.com/embed/CTTTm4zT9uM" 
 },
 {
   id: 12,
-  areaOfHome: 'Miscellaneous',
+  areaOfHome: 'Misc',
   project: 'Fix Your Top-Loading Washing Machine Agitator',
   toolsNeeded: ['agitator dogs', 'needle nose pliers', '7/16th socket', '10in extension bar'],
   videos: "https://www.youtube.com/embed/JBhZhkQwCTA" 
@@ -92,7 +92,7 @@ const homeRepairs =  [
 },
 {
   id: 14,
-  areaOfHome: 'Miscellaneous',
+  areaOfHome: 'Misc',
   project: 'Fix Dishwasher',
   toolsNeeded: ['gloves', 'screwdriver', ' 6mm socket', 'pliers', 'vaccuum hose', 'reversable screwdriver', 'pick'],
   videos: "https://www.youtube.com/embed/lc7rh3ADZUk" 
@@ -148,21 +148,21 @@ const homeRepairs =  [
 },
 {
   id: 22,
-  areaOfHome: 'Miscellaneous',
+  areaOfHome: 'Misc',
   project: 'Baseboard Repairs',
   toolsNeeded: ['sandpaper', 'wood glue', 'wood filler', 'x-acto knife', 'damp rag'],
   videos: "https://www.youtube.com/embed/VKy9YU5dBYc" 
 },
 {
   id: 23,
-  areaOfHome: 'Miscellaneous', 
+  areaOfHome: 'Misc', 
   project: 'Wobbly Chair Legs',
   toolsNeeded: ['drill', 'tape', 'marker', 'chisel', 'sandpaper', 'wood glue', 'artist paintbrush', 'rubber mallet'],
   videos: "https://www.youtube.com/embed/dKqIVWTpIiA" 
 },
 {
   id: 24,
-  areaOfHome: 'Miscellaneous',
+  areaOfHome: 'Misc',
   project: 'Remove Stain From Carpet',
   toolsNeeded: ['denatured alcohol', 'old toothbrush', 'light-colored rags', 'wet/dry vaccuum', 'baking soda', 'spoon', 'dish soap', 'water', 'spray bottle', 'acetone', 'paper towels', 'hydrogen peroxide'],
   videos: "https://www.youtube.com/embed/ZDEscYyxZ0U" 
