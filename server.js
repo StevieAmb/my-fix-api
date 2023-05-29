@@ -12,7 +12,7 @@ app.locals.title = 'My Fix API'
 app.locals.homeRepairs = homeRepairs;
 
 app.get('/', (response) => {
-  res.set('Access-Control-Allow-Origin', '*');
+  response.set('Access-Control-Allow-Origin', '*');
   response.send(app.locals.homeRepairs)
   console.log(app.locals.homeRepairs)
 });
