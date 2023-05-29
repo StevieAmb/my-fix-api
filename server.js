@@ -24,7 +24,7 @@ app.locals.title = 'My Fix API'
 app.locals.homeRepairs = homeRepairs;
 
 app.get('/', (req, response) => {
-  res.setHeader("Access-Control-Allow-Origin", req.headers.origin);
+  response.setHeader("Access-Control-Allow-Origin", req.headers.origin);
   response.send(app.locals.homeRepairs)
   console.log(app.locals.homeRepairs)
 });
