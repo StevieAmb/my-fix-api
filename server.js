@@ -4,7 +4,9 @@ const app = express();
 const cors = require('cors');
 
 app.use(express.json())
-app.use(cors());
+app.use(cors({
+  origin: '*'
+}));
 
 // app.use((req, res, next) => {
 //   const allowedOrigins = ['http://127.0.0.1:8020', 'http://localhost:3000', 'my-fixings.netlify.app'];
