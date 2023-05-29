@@ -1,6 +1,5 @@
 const express = require('express');
 const { homeRepairs } = require('./data');
-const { application } = require('express');
 const app = express();
 const cors = require('cors');
 
@@ -12,8 +11,10 @@ app.locals.title = 'My Fix API'
 
 app.locals.homeRepairs = homeRepairs;
 
-app.get('/', (request, response) => {
+app.get('/', (response) => {
+  res.set('Access-Control-Allow-Origin', '*');
   response.send(app.locals.homeRepairs)
+  console.log(app.locals.homeRepairs)
 });
 
 app.listen(app.get('port'), () => {
