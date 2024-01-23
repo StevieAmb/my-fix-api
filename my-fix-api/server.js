@@ -25,10 +25,13 @@ app.locals.title = 'My Fix API'
 
 app.locals.homeRepairs = homeRepairs;
 
-app.get('/', (response) => {
+// app.get('/', (res) => {
+// });
+
+app.get("/", async (request, response) => {
   response.send(app.locals.homeRepairs)
   console.log(app.locals.homeRepairs)
-});
+})
 
 app.listen(app.get('port'), () => {
   console.log(`${app.locals.title} is now running on ${app.get('port')}!`)
