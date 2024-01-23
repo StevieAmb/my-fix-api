@@ -15,7 +15,6 @@ app.locals.homeRepairs = homeRepairs;
 
 app.get("/", async (request, response) => {
   response.send(app.locals.homeRepairs)
-  console.log(app.locals.homeRepairs)
 })
 
 app.listen(app.get('port'), () => {
