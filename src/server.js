@@ -7,7 +7,7 @@ let area = ['bathroom', 'kitchen', 'bedroom', 'misc']
 
 app.use(express.json())
 app.use(cors({
-  origin: ['*']
+  origin: '*'
 }));
 
 app.set('port', process.env.PORT || 3001);
