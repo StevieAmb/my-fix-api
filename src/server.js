@@ -3,8 +3,6 @@ const { homeRepairs } = require('./data');
 const app = express();
 const cors = require('cors');
 
-let area = ['bathroom', 'kitchen', 'bedroom', 'misc']
-
 app.use(express.json())
 app.use(cors({
   origin: '*'
