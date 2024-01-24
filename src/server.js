@@ -5,7 +5,7 @@ const cors = require('cors');
 
 app.use(express.json())
 app.use(cors({
-  origin: ['http://localhost:3000']
+  origin: ['https://my-fix.onrender.com/']
 }));
 
 app.set('port', process.env.PORT || 3001);
