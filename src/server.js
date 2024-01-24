@@ -3,9 +3,11 @@ const { homeRepairs } = require('./data');
 const app = express();
 const cors = require('cors');
 
+let area = ['bathroom', 'kitchen', 'bedroom', 'misc']
+
 app.use(express.json())
 app.use(cors({
-  origin: ['https://my-fix.onrender.com/']
+  origin: ['*']
 }));
 
 app.set('port', process.env.PORT || 3001);
